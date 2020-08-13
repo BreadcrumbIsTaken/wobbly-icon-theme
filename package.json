@@ -1,6 +1,6 @@
   
 {
-	"name": "breabcrumbs-tilted-icon-theme",
+	"name": "wobbly-icon-theme",
 	"displayName": "%displayName%",
 	"description": "%description%",
 	"categories": [ "Themes" ],
@@ -11,14 +11,14 @@
 	"engines": { "vscode": "*" },
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Breabcrumb/breabcrumbs-tilted-icon-theme"
+		"url": "https://github.com/Breabcrumb/wobbly-icon-theme"
 	  },
 	"contributes": {
 		"iconThemes": [
 			{
-				"id": "breabs-tilted-icon-theme",
-				"label": "Breabcrumb's Tilted Icon Theme",
-				"path": "./fileicons/breab-tilted-icon-theme.json"
+				"id": "wobbly-icon-theme",
+				"label": "Wobbly Icon Theme",
+				"path": "./fileicons/wobbly-icon-theme.json"
 			}
 		]
 	}
