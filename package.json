@@ -1,6 +1,6 @@
   
 {
-	"name": "breabcrumbs-icon-theme",
+	"name": "breabcrumbs-tilted-icon-theme",
 	"displayName": "%displayName%",
 	"description": "%description%",
 	"categories": [ "Themes" ],
@@ -11,14 +11,14 @@
 	"engines": { "vscode": "*" },
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Breabcrumb/breabcrumbs-icon-theme"
+		"url": "https://github.com/Breabcrumb/breabcrumbs-tilted-icon-theme"
 	  },
 	"contributes": {
 		"iconThemes": [
 			{
-				"id": "breabs-icon-theme",
-				"label": "Breabcrumb's Icon Theme",
-				"path": "./fileicons/vs_minimal-icon-theme.json"
+				"id": "breabs-tilted-icon-theme",
+				"label": "Breabcrumb's Tilted Icon Theme",
+				"path": "./fileicons/breab-tilted-icon-theme.json"
 			}
 		]
 	}
