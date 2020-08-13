@@ -1,19 +1,19 @@
 {
     "iconDefinitions": {
         "_denizen_script": {
-            "iconPath": ".file icons/icon-svg/dsc.svg"
+            "iconPath": "./file icons/svgs/dsc.svg"
         },
         "_file": {
-            "iconPath": "./file icons/icon-svg/file.svg"
+            "iconPath": "./file icons/svgs/file.svg"
         },
         "_javascript": {
-            "iconPath": "./file icons/icon-svg/js.svg"
+            "iconPath": "./file icons/svgs/js.svg"
         },
         "_java": {
-            "iconPath": "./file icons/icon-svg/java.svg"
+            "iconPath": "./file icons/svgs/java.svg"
         },
         "_react_jsx": {
-            "iconPath": "./file icons/icon-svg/jsc.svg"
+            "iconPath": "./file icons/svgs/jsc.svg"
         }
     },
 

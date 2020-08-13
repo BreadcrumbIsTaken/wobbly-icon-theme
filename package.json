@@ -1,4 +1,3 @@
-  
 {
 	"name": "wobbly-icon-theme",
 	"displayName": "%displayName%",
@@ -18,7 +17,7 @@
 			{
 				"id": "wobbly-icon-theme",
 				"label": "Wobbly Icon Theme",
-				"path": "./fileicons/wobbly-icon-theme.json"
+				"path": "./file icons/wobbly-icon-theme.json"
 			}
 		]
 	}
