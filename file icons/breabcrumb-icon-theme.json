@@ -1,0 +1,11 @@
+{
+    "iconDefinitions": {
+        "_denizen_script": {
+            "iconPath": "./icon-svg/dsc.svg"
+        }
+    },
+
+    "fileExtensions": {
+        "dsc": "_denizen_script"
+    }
+}

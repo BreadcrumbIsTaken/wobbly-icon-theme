@@ -1,0 +1,21 @@
+  
+{
+	"name": "breabcrumbs-icon-theme",
+	"displayName": "%displayName%",
+	"description": "%description%",
+	"categories": [ "Themes" ],
+	"version": "0.0.1",
+	"publisher": "breabcrumb",
+	"icon": "logos/logo.png",
+	"license": "MIT",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"iconThemes": [
+			{
+				"id": "breabs-icon-theme",
+				"label": "Breabcrumb's Icon Theme",
+				"path": "./fileicons/vs_minimal-icon-theme.json"
+			}
+		]
+	}
+}
