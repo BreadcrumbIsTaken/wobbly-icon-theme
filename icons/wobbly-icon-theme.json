@@ -1,0 +1,36 @@
+{
+    "iconDefinitions": {
+        "_denizen_script": {
+            "iconPath": "./icons/svgs/dsc.svg"
+        },
+        "_file": {
+            "iconPath": "./icons/svgs/file.svg"
+        },
+        "_javascript": {
+            "iconPath": "./icons/svgs/js.svg"
+        },
+        "_java": {
+            "iconPath": "./icons/svgs/java.svg"
+        },
+        "_react_jsx": {
+            "iconPath": "./icons/svgs/jsc.svg"
+        },
+        "_folder_closed": {
+            "iconPath": "./icons/svgs/folder.svg"
+        },
+        "_folder_expanded": {
+            "iconPath": "./icons/svgs/folderExpanded.svg"
+        }
+    },
+
+    "file": "_file",
+    "folder": "_folder_closed",
+    "folderExpanded": "_folder_expanded",
+    
+    "fileExtensions": {
+        "dsc": "_denizen_script",
+        "js": "_javascript",
+        "java": "_java",
+        "jsx": "_react_jsx"
+    },
+}

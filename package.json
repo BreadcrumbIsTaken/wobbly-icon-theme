@@ -5,7 +5,7 @@
 	"categories": [
 		"Themes"
 	],
-	"version": "0.0.1",
+	"version": "0.0.3",
 	"publisher": "breabcrumb",
 	"icon": "logos/logo.png",
 	"license": "MIT",
@@ -21,7 +21,7 @@
 			{
 				"id": "wobbly-icon-theme",
 				"label": "Wobbly Icon Theme",
-				"path": "./file icons/wobbly-icon-theme.json"
+				"path": "./icons/wobbly-icon-theme.json"
 			}
 		]
 	}
