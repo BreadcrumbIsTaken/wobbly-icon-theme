@@ -4,12 +4,20 @@
             "iconPath": ".file icons/icon-svg/dsc.svg"
         },
         "_file": {
-            "iconPath": "./file iconst/icon-svg/file.svg"
+            "iconPath": "./file icons/icon-svg/file.svg"
+        },
+        "_javascript":{
+            "iconPath": "./file icons/icon-svg/js.svg"
+        },
+        "_java":{
+            "iconPath": "./file icons/icon-svg/java.svg"
         }
     },
 
     "fileExtensions": {
-        "dsc": "_denizen_script"
+        "dsc": "_denizen_script",
+        "js": "_javascript",
+        "java": "_java"
     },
 
     "file": "_file"
