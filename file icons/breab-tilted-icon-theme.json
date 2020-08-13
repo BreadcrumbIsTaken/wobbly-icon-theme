@@ -2,10 +2,15 @@
     "iconDefinitions": {
         "_denizen_script": {
             "iconPath": ".file icons/icon-svg/dsc.svg"
+        },
+        "_file": {
+            "iconPath": "./file iconst/icon-svg/file.svg"
         }
     },
 
     "fileExtensions": {
         "dsc": "_denizen_script"
-    }
+    },
+
+    "file": "_file"
 }
