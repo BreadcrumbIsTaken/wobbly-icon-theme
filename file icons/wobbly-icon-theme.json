@@ -6,18 +6,22 @@
         "_file": {
             "iconPath": "./file icons/icon-svg/file.svg"
         },
-        "_javascript":{
+        "_javascript": {
             "iconPath": "./file icons/icon-svg/js.svg"
         },
-        "_java":{
+        "_java": {
             "iconPath": "./file icons/icon-svg/java.svg"
+        },
+        "_react_jsx": {
+            "iconPath": "./file icons/icon-svg/jsc.svg"
         }
     },
 
     "fileExtensions": {
         "dsc": "_denizen_script",
         "js": "_javascript",
-        "java": "_java"
+        "java": "_java",
+        "jsx": "_react_jsx"
     },
 
     "file": "_file"
