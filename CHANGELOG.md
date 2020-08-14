@@ -18,6 +18,7 @@ C (.c)
 C++ (.cpp)
 Header File (.h)
 Unity (.unity)
+.vscode Folder
 
 ### edited: 
 folder (is now blue)
