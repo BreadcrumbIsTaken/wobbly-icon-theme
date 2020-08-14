@@ -1,25 +1,25 @@
 {
     "iconDefinitions": {
         "_denizen_script": {
-            "iconPath": "./icons/svgs/dsc.svg"
+            "iconPath": "dsc.svg"
         },
         "_file": {
-            "iconPath": "./icons/svgs/file.svg"
+            "iconPath": "file.svg"
         },
         "_javascript": {
-            "iconPath": "./icons/svgs/js.svg"
+            "iconPath": "js.svg"
         },
         "_java": {
-            "iconPath": "./icons/svgs/java.svg"
+            "iconPath": "java.svg"
         },
         "_react_jsx": {
-            "iconPath": "./icons/svgs/jsc.svg"
+            "iconPath": "jsx.svg"
         },
         "_folder_closed": {
-            "iconPath": "./icons/svgs/folder.svg"
+            "iconPath": "folder.svg"
         },
         "_folder_expanded": {
-            "iconPath": "./icons/svgs/folderExpanded.svg"
+            "iconPath": "folderExpanded.svg"
         }
     },
 
@@ -33,4 +33,11 @@
         "java": "_java",
         "jsx": "_react_jsx"
     },
+
+    "languageIds": {
+        "dsc": "_denizen_script",
+        "js": "_javascript",
+        "java": "_java",
+        "jsx": "_react_jsx"
+    }
 }

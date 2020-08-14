@@ -1,13 +1,27 @@
 # Wobbly Icon Theme
 this is just a dumb little icon theme that i made for fun
-# I am having a bug with showing the icons.
-# for now, do not download this theme
 
 ### all of the icons are tilted -15 degrees
 
 This icon theme is still in development and will be frequently updated.
 
 # CHANGELOG
+
+# version 1.0.0
+updated all icons to white text
+broke backwards compatibility
+
+### version 0.0.8
+bug fixing
+
+### version 0.0.7
+bug fixing
+
+### version 0.0.6
+updated wobbly-icon-theme.json
+
+### version 0.0.5
+updated wobbly-icon-theme.json
 
 ### version 0.0.4
 updated README.md
