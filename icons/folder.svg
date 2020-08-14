@@ -5,8 +5,8 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      width="1.66667in" height="1.66667in"
      viewBox="0 0 500 500">
-  <path id="grey"
-        fill="#868686" stroke="none" stroke-width="1"
+  <path id="blue"
+        fill="#009bff" stroke="none" stroke-width="1"
         d="M 86.00,95.00
            C 86.00,95.00 117.00,80.34 117.00,80.34
              117.00,80.34 142.00,65.96 142.00,65.96
@@ -213,8 +213,8 @@
            M 125.21,350.84
            C 131.93,350.35 131.06,356.48 127.86,357.83
              124.66,359.18 119.68,354.61 125.21,350.84 Z" />
-     <path id="darkgrey"
-        fill="#555" stroke="black" stroke-width="1"
+     <path id="darkblue"
+        fill="#0f4467" stroke="black" stroke-width="1"
         d="M 23.00,205.00
            C 23.00,186.62 22.00,159.36 33.95,144.32
              33.95,144.32 40.58,138.19 40.58,138.19

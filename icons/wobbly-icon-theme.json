@@ -1,26 +1,80 @@
 {
     "iconDefinitions": {
-        "_denizen_script": {
-            "iconPath": "dsc.svg"
-        },
+
         "_file": {
             "iconPath": "file.svg"
         },
-        "_javascript": {
-            "iconPath": "js.svg"
-        },
-        "_java": {
-            "iconPath": "java.svg"
-        },
-        "_react_jsx": {
-            "iconPath": "jsx.svg"
-        },
+
         "_folder_closed": {
             "iconPath": "folder.svg"
         },
+
         "_folder_expanded": {
             "iconPath": "folderExpanded.svg"
+        },
+
+        "_denizenscript": {
+            "iconPath": "dsc.svg"
+        },
+
+        "_javascript": {
+            "iconPath": "js.svg"
+        },
+
+        "_java": {
+            "iconPath": "java.svg"
+        },
+
+        "_react_jsx": {
+            "iconPath": "jsx.svg"
+        },
+
+        "_json": {
+            "iconPath": "json.svg"
+        },
+
+        "_gitignore": {
+            "iconPath": "gitignore.svg"
+        },
+
+        "_vsix": {
+            "iconPath": "vsix.svg"
+        },
+
+        "_readme_md": {
+            "iconPath": "readme-md.svg"
+        },
+
+        "_markdown": {
+
+            "iconPath": "md.svg"
+
+        },
+
+        "_css": {
+
+            "iconPath": "css.svg"
+
+        },
+
+        "_nodejs": {
+
+            "iconPath": "nodejs.svg"
+
+        },
+
+        "_npm": {
+
+            "iconPath": "npm.svg"
+
+        },
+
+        "_html": {
+
+            "iconPath": "html.svg"
+
         }
+
     },
 
     "file": "_file",
@@ -28,16 +82,43 @@
     "folderExpanded": "_folder_expanded",
     
     "fileExtensions": {
-        "dsc": "_denizen_script",
+
+        "dsc": "_denizenscript",
         "js": "_javascript",
         "java": "_java",
-        "jsx": "_react_jsx"
+        "jsx": "_react_jsx",
+        "json": "_json",
+        "gitignore": "_gitignore",
+        "vsix": "_vsix",
+        "md" : "_markdown",
+        "css": "_css",
+        "npmignore": "_npm",
+        "html": "_html"
+
     },
 
     "languageIds": {
-        "dsc": "_denizen_script",
+
+        "dsc": "_denizenscript",
         "js": "_javascript",
         "java": "_java",
-        "jsx": "_react_jsx"
+        "jsx": "_react_jsx",
+        "json": "_json",
+        "gitignore": "_gitignore",
+        "vsix": "_vsix",
+        "md" : "_markdown",
+        "css": "_css",
+        "npmignore": "_npm",
+        "html": "_html"
+        
+    },
+
+    "fileNames": {
+
+        "README.md": "_readme_md",
+        "readme.md": "_readme_md",
+        "package.json": "_nodejs",
+        "package-lock.json": "_nodejs",
+
     }
 }
