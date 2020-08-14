@@ -1,79 +1,125 @@
 {
     "iconDefinitions": {
 
+        // default file
         "_file": {
             "iconPath": "file.svg"
         },
 
+        // default closed folder
         "_folder_closed": {
             "iconPath": "folder.svg"
         },
 
+        // default open folder
         "_folder_expanded": {
             "iconPath": "folderExpanded.svg"
         },
 
+        // .vscode folder closed
+        "_vscode_folder_closed": {
+            "iconPath": "-vscodeFolder.svg"
+        },
+
+        "_vscode_folder_opened": {
+            "iconPath": "-vscodeFolderExpanded.svg"
+        },
+
+        // .dsc
         "_denizenscript": {
             "iconPath": "dsc.svg"
         },
 
+        // .js
         "_javascript": {
             "iconPath": "js.svg"
         },
 
+        // .java
         "_java": {
             "iconPath": "java.svg"
         },
 
+        // .jsx
         "_react_jsx": {
             "iconPath": "jsx.svg"
         },
 
+        // .json
         "_json": {
             "iconPath": "json.svg"
         },
 
+        // .gitignore
         "_gitignore": {
             "iconPath": "gitignore.svg"
         },
 
+        // .vsix
         "_vsix": {
             "iconPath": "vsix.svg"
         },
 
+        // README.md
         "_readme_md": {
             "iconPath": "readme-md.svg"
         },
 
+        // .md
         "_markdown": {
 
             "iconPath": "md.svg"
 
         },
 
+        // .css
         "_css": {
 
             "iconPath": "css.svg"
 
         },
 
+        // package.json package-lock.json
         "_nodejs": {
 
             "iconPath": "nodejs.svg"
 
         },
 
+        // .npmignore
         "_npm": {
 
             "iconPath": "npm.svg"
 
         },
 
+        // .html
         "_html": {
 
             "iconPath": "html.svg"
 
-        }
+        },
+
+        // .unity
+        "_unity": {
+
+            "iconPath": "unity.svg"
+
+        },
+
+        // .c
+        "_c": {
+
+            "iconPath": "c.svg"
+
+        },
+
+        // .cpp
+        "_cpp": {
+
+            "iconPath": "cpp.svg"
+
+        },
 
     },
 
@@ -93,7 +139,10 @@
         "md" : "_markdown",
         "css": "_css",
         "npmignore": "_npm",
-        "html": "_html"
+        "html": "_html",
+        "unity": "_unity",
+        "c": "_c",
+        "cpp": "_cpp",
 
     },
 
@@ -109,7 +158,10 @@
         "md" : "_markdown",
         "css": "_css",
         "npmignore": "_npm",
-        "html": "_html"
+        "html": "_html",
+        "unity": "_unity",
+        "c": "_c",
+        "cpp": "_cpp"
         
     },
 
@@ -120,5 +172,18 @@
         "package.json": "_nodejs",
         "package-lock.json": "_nodejs",
 
+    },
+
+    "folderNames": {
+
+        ".vscode": "_vscode_folder_closed"
+
+    },
+
+    "folderNamesExpanded": {
+
+        ".vscode": "_vscode_folder_opened"
+
     }
+
 }
