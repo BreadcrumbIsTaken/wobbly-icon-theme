@@ -8,7 +8,7 @@ This icon theme is still in development and will be frequently updated.
 
 
 
-
+![icons](./logos/icons.png)
 
 
 
