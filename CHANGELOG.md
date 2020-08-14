@@ -1,5 +1,11 @@
 # CHANGELOG
 
+# version 1.2.1 - 8/14/2020
+
+changed image on README.md
+
+fixing pages folder
+
 # version 1.2.0 - 8/14/2020
 
 midi (.midi)(.mid)
