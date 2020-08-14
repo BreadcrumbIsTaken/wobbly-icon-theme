@@ -1,5 +1,8 @@
 # CHANGELOG
 
+# version 1.1.4 - 8/14/2020 
+fixed C# (.cs)
+
 # version 1.1.3 - 8/14/2020
 fixing bug
 
