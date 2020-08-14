@@ -1,7 +1,15 @@
 # CHANGELOG
 
-# version 1.1.0 - 8/13/2020
+# version 1.1.3 - 8/14/2020
+fixing bug
 
+# version 1.1.2 - 8/14/2020
+fixing bug
+
+# version 1.1.1 - 8/13/2020
+forgot to add C#(.cs) fixed now
+
+# version 1.1.0 - 8/13/2020
 ### added:
 CSS (.css)
 Gitignore (.gitignore)

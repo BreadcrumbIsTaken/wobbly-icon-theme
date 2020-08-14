@@ -1,6 +1,11 @@
 {
     "iconDefinitions": {
 
+        // .dsc
+        "_dsc": {
+             "iconPath": "dsc.svg"
+        },
+
         // default file
         "_file": {
             "iconPath": "file.svg"
@@ -18,16 +23,11 @@
 
         // .vscode folder closed
         "_vscode_folder_closed": {
-            "iconPath": "-vscodeFolder.svg"
+            "iconPath": "vscodeFolder.svg"
         },
 
         "_vscode_folder_opened": {
-            "iconPath": "-vscodeFolderExpanded.svg"
-        },
-
-        // .dsc
-        "_denizenscript": {
-            "iconPath": "dsc.svg"
+            "iconPath": "vscodeFolderExpanded.svg"
         },
 
         // .js
@@ -121,6 +121,11 @@
 
         },
 
+        // .cs
+        "_cs": {
+            "iconPath": "cs.svg"
+        }
+
     },
 
     "file": "_file",
@@ -129,7 +134,7 @@
     
     "fileExtensions": {
 
-        "dsc": "_denizenscript",
+        "dsc": "_dsc",
         "js": "_javascript",
         "java": "_java",
         "jsx": "_react_jsx",
@@ -143,12 +148,13 @@
         "unity": "_unity",
         "c": "_c",
         "cpp": "_cpp",
+        "cs": "_cs",
 
     },
 
     "languageIds": {
 
-        "dsc": "_denizenscript",
+        "dsc": "_dsc",
         "js": "_javascript",
         "java": "_java",
         "jsx": "_react_jsx",
@@ -161,7 +167,8 @@
         "html": "_html",
         "unity": "_unity",
         "c": "_c",
-        "cpp": "_cpp"
+        "cpp": "_cpp",
+        "cs": "_cs",
         
     },
 
