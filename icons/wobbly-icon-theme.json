@@ -37,7 +37,7 @@
         },
 
         // pages open folder
-        "pages_folder_opened": {
+        "_pages_folder_opened": {
             "iconPath": "pagesFolderExpanded.svg"
         },
 
@@ -203,7 +203,7 @@
         },
 
         // .env
-        "env": {
+        "_env": {
             "iconPath": "env.svg"
         }
 
@@ -337,7 +337,7 @@
     "folderNames": {
 
         ".vscode": "_vscode_folder_closed",
-        "pages": "_pages_folder_pages",
+        "pages": "_pages_folder_closed",
 
     },
 

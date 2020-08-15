@@ -1,5 +1,13 @@
 # CHANGELOG
 
+# version 1.2.4 - 8/15/2020
+
+fixed pages folder not showing up
+
+# version 1.2.3 - 8/14/2020
+
+fixed (.env) icon not showing up
+
 # version 1.2.2 - 8/14/2020
 
 Enviroment Variables (.env)
