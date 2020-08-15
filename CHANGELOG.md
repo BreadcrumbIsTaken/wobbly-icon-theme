@@ -1,5 +1,9 @@
 # CHANGELOG
 
+# version 1.2.2 - 8/14/2020
+
+Enviroment Variables (.env)
+
 # version 1.2.1 - 8/14/2020
 
 changed image on README.md

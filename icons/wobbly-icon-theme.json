@@ -200,6 +200,11 @@
         // .sh
         "_shell": {
             "iconPath": "sh.png"
+        },
+
+        // .env
+        "env": {
+            "iconPath": "env.svg"
         }
 
     },
@@ -260,6 +265,7 @@
         "class": "_java",
         "jar": "_java",
         "sh": "_shell",
+        "env": "_env",
 
     },
 
@@ -314,7 +320,8 @@
         "php": "_php",
         "class": "_java",
         "jar": "_java",
-        "sh": "_shell"
+        "sh": "_shell",
+        "env": "_env",
         
     },
 
