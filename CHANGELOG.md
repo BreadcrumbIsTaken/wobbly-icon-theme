@@ -1,5 +1,8 @@
 # CHANGELOG
 
+# version 1.3.2 - 2/20/2021
+visual studio marketplace thinks that this has a version 1.3.1 but it does not so im updating it to 1.3.2 because i dont know why it is not updating right.
+
 # version 1.2.5 - 2/20/2021
 
 wow it has been a long time! I just changed the readme a bit to update some things and added
