@@ -205,6 +205,11 @@
         // .env
         "_env": {
             "iconPath": "env.svg"
+        },
+
+        // .ts
+        "_ts": {
+            "iconPath": "ts.svg"
         }
 
     },
@@ -214,7 +219,6 @@
     "folderExpanded": "_folder_expanded",
     
     "fileExtensions": {
-
         "dsc": "_dsc",
         "js": "_javascript",
         "java": "_java",
@@ -266,11 +270,10 @@
         "jar": "_java",
         "sh": "_shell",
         "env": "_env",
-
+        "ts": "_ts",
     },
 
     "languageIds": {
-
         "dsc": "_dsc",
         "js": "_javascript",
         "java": "_java",
@@ -322,30 +325,24 @@
         "jar": "_java",
         "sh": "_shell",
         "env": "_env",
-        
+        "ts": "_ts",
     },
 
     "fileNames": {
-
         "README.md": "_readme_md",
         "readme.md": "_readme_md",
         "package.json": "_nodejs",
         "package-lock.json": "_nodejs",
-
     },
 
     "folderNames": {
-
         ".vscode": "_vscode_folder_closed",
         "pages": "_pages_folder_closed",
-
     },
 
     "folderNamesExpanded": {
-
         ".vscode": "_vscode_folder_opened",
         "pages": "_pages_folder_opened",
-
     }
 
 }

@@ -5,7 +5,7 @@
 	"categories": [
 		"Themes"
 	],
-	"version": "1.2.4",
+	"version": "1.2.5",
 	"publisher": "breabcrumb",
 	"icon": "logos/logo.png",
 	"license": "MIT",
@@ -14,7 +14,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Breabcrumb/wobbly-icon-theme"
+		"url": "https://github.com/BreadcrumbIsTaken/wobbly-icon-theme"
 	},
 	"contributes": {
 		"iconThemes": [

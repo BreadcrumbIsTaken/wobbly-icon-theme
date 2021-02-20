@@ -1,5 +1,12 @@
 # CHANGELOG
 
+# version 1.2.5 - 2/20/2021
+
+wow it has been a long time! I just changed the readme a bit to update some things and added
+TypeScript (.ts) support. Thanks for the suggestion, @rumanbsl! Closes issue #2
+I also got Adobe Illustrator so the svg icons will look better (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+Also made some code look neater.
+
 # version 1.2.4 - 8/15/2020
 
 fixed pages folder not showing up

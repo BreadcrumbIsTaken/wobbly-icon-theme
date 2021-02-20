@@ -17,4 +17,4 @@ This icon theme is still in development and will be frequently updated.
 
 java icon by [Moonstone](github.com/MoonstoneStudios)
 
-everything else by [breabcrumb](github.com/Breabcrumb)
+everything else by [Breadcrumb](github.com/BreadcrumbIsTaken)
