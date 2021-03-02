@@ -15,6 +15,6 @@ This icon theme is still in development and will be frequently updated.
 
 # credits
 
-java icon by [Moonstone](github.com/MoonstoneStudios)
+java icon by [Moonstone](https://github.com/MoonstoneStudios)
 
-everything else by [Breadcrumb](github.com/BreadcrumbIsTaken)
+everything else by [Breadcrumb](https://github.com/BreadcrumbIsTaken)
