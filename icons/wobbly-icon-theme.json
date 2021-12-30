@@ -1,9 +1,8 @@
 {
     "iconDefinitions": {
-
         // .dsc
         "_dsc": {
-             "iconPath": "dsc.svg"
+            "iconPath": "dsc.svg"
         },
 
         // default file
@@ -78,58 +77,42 @@
 
         // .md
         "_markdown": {
-
             "iconPath": "md.svg"
-
         },
 
         // .css
         "_css": {
-
             "iconPath": "css.svg"
-
         },
 
         // package.json package-lock.json
         "_nodejs": {
-
             "iconPath": "nodejs.svg"
-
         },
 
         // .npmignore
         "_npm": {
-
             "iconPath": "npm.svg"
-
         },
 
         // .html .xhtml
         "_html": {
-
             "iconPath": "html.svg"
-
         },
 
         // .unity
         "_unity": {
-
             "iconPath": "unity.svg"
-
         },
 
         // .c
         "_c": {
-
             "iconPath": "c.svg"
-
         },
 
         // .cpp
         "_cpp": {
-
             "iconPath": "cpp.svg"
-
         },
 
         // .cs
@@ -210,8 +193,17 @@
         // .ts
         "_ts": {
             "iconPath": "ts.svg"
-        }
+        },
 
+        // .ipynb
+        "_ipynb": {
+            "iconPath": "ipynb.svg"
+        },
+
+        // .rs
+        "_rs": {
+            "iconPath": "rs.svg"
+        }
     },
 
     "file": "_file",
@@ -271,6 +263,8 @@
         "sh": "_shell",
         "env": "_env",
         "ts": "_ts",
+        "ipynb": "_ipynb",
+        "rs": "_rs",
     },
 
     "languageIds": {
@@ -326,6 +320,8 @@
         "sh": "_shell",
         "env": "_env",
         "ts": "_ts",
+        "ipynb": "_ipynb",
+        "rs": "_rs",
     },
 
     "fileNames": {
@@ -344,5 +340,4 @@
         ".vscode": "_vscode_folder_opened",
         "pages": "_pages_folder_opened",
     }
-
 }

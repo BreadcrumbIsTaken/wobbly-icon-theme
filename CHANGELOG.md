@@ -1,5 +1,11 @@
 # CHANGELOG
 
+# version 1.4.0 - 12/29/2021
+added Rust (.rs) and Jupyter Notebook (.ipynb)
+.rs closes issue #3
+.ipynb resolves comment on review page in the marketplace website
+also, i dont have illustrator anymore so lol
+
 # version 1.3.2 - 2/20/2021
 visual studio marketplace thinks that this has a version 1.3.1 but it does not so im updating it to 1.3.2 because i dont know why it is not updating right.
 
