@@ -203,7 +203,12 @@
         // .rs
         "_rs": {
             "iconPath": "rs.svg"
-        }
+        },
+
+        // .tsx (uses the same icon as .jsx)
+        "_tsx": {
+            "iconPath": "jsx.svg"
+        },
     },
 
     "file": "_file",
@@ -265,6 +270,7 @@
         "ts": "_ts",
         "ipynb": "_ipynb",
         "rs": "_rs",
+        "tsx": "_tsx",
     },
 
     "languageIds": {
@@ -322,6 +328,7 @@
         "ts": "_ts",
         "ipynb": "_ipynb",
         "rs": "_rs",
+        "tsx": "_tsx"
     },
 
     "fileNames": {

@@ -1,5 +1,9 @@
 # CHANGELOG
 
+# version 1.4.1 - 1/30/2022
+added React Typescript (.tsx). Uses the same icon as .jsx
+Closes issue #6
+
 # version 1.4.0 - 12/29/2021
 added Rust (.rs) and Jupyter Notebook (.ipynb)
 .rs closes issue #3
