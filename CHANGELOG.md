@@ -1,5 +1,9 @@
 # CHANGELOG
 
+# version 1.4.2 - 11/16/2022
+added Vue.js (.vue).
+Closes issue #7, suggested by @atif0075
+
 # version 1.4.1 - 1/30/2022
 added React Typescript (.tsx). Uses the same icon as .jsx
 Closes issue #6

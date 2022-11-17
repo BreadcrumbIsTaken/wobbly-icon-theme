@@ -209,6 +209,11 @@
         "_tsx": {
             "iconPath": "jsx.svg"
         },
+
+        // .vue
+        "_vue": {
+            "iconPath": "vue.svg"
+        },
     },
 
     "file": "_file",
@@ -271,6 +276,7 @@
         "ipynb": "_ipynb",
         "rs": "_rs",
         "tsx": "_tsx",
+        "vue": "_vue",
     },
 
     "languageIds": {
@@ -328,7 +334,8 @@
         "ts": "_ts",
         "ipynb": "_ipynb",
         "rs": "_rs",
-        "tsx": "_tsx"
+        "tsx": "_tsx",
+        "vue": "_vue"
     },
 
     "fileNames": {
