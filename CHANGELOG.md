@@ -1,16 +1,27 @@
 # CHANGELOG
 
+# version 1.4.3 - 12/21/2022
+add Svelte (.svelte)
+add TailwindCSS
+add PostCSS
+add icon for .npmrc
+add .svelte-kit folder icon
+add .node_modules folder icon
+add src folder icon
+add .nuxt folder icon
+Closes issue #8, suggested by @atif0075
+
 # version 1.4.2 - 11/16/2022
 added Vue.js (.vue).
 Closes issue #7, suggested by @atif0075
 
 # version 1.4.1 - 1/30/2022
 added React Typescript (.tsx). Uses the same icon as .jsx
-Closes issue #6
+Closes issue #6, suggested by @Rimuy
 
 # version 1.4.0 - 12/29/2021
 added Rust (.rs) and Jupyter Notebook (.ipynb)
-.rs closes issue #3
+.rs closes issue #3, suggested by @l-7-l
 .ipynb resolves comment on review page in the marketplace website
 also, i dont have illustrator anymore so lol
 

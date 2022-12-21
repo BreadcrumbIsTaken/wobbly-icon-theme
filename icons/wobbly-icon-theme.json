@@ -214,6 +214,60 @@
         "_vue": {
             "iconPath": "vue.svg"
         },
+
+        // .svelte
+        "_svelte": {
+            "iconPath": "svelte.svg"
+        },
+
+        // tailwind.config.cjs
+        "_tailwindcss": {
+            "iconPath": "tailwindcss.svg"
+        },
+
+        "_postcss": {
+            "iconPath": "postcss.svg"
+        },
+
+        // .svelte-kit
+        "_svelte_kit_folder_closed": {
+            "iconPath": "svelteFolder.svg"
+        },
+
+        // .svelte-kit
+        "_svelte_kit_folder_opened": {
+            "iconPath": "svelteFolderExpanded.svg"
+        },
+
+        // .node_modules
+        "_node_modules_folder_closed": {
+            "iconPath": "nodeModulesFolder.svg"
+        },
+
+        // .node_modules
+        "_node_modules_folder_opened": {
+            "iconPath": "nodeModulesFolderExpanded.svg"
+        },
+
+        // src
+        "_src_folder_closed": {
+            "iconPath": "srcFolder.svg"
+        },
+
+        // src
+        "_src_folder_opened": {
+            "iconPath": "srcFolderExpanded.svg"
+        },
+
+        // .nuxt
+        "_nuxt_folder_closed": {
+            "iconPath": "nuxtFolder.svg"
+        },
+
+        // .nuxt
+        "_nuxt_folder_opened": {
+            "iconPath": "nuxtFolderExpanded.svg"
+        },
     },
 
     "file": "_file",
@@ -277,6 +331,8 @@
         "rs": "_rs",
         "tsx": "_tsx",
         "vue": "_vue",
+        "svelte": "_svelte",
+        "npmrc": "_npm",
     },
 
     "languageIds": {
@@ -335,7 +391,10 @@
         "ipynb": "_ipynb",
         "rs": "_rs",
         "tsx": "_tsx",
-        "vue": "_vue"
+        "vue": "_vue",
+        "svelte": "_svelte",
+        "tailwindcss": "_tailwindcss",
+        "postcss": "_postcss",
     },
 
     "fileNames": {
@@ -343,15 +402,26 @@
         "readme.md": "_readme_md",
         "package.json": "_nodejs",
         "package-lock.json": "_nodejs",
+        "svelte.config.cjs": "_svelte",
+        "tailwind.config.cjs": "_tailwindcss",
+        "postcss.config.cjs": "_postcss",
     },
 
     "folderNames": {
         ".vscode": "_vscode_folder_closed",
         "pages": "_pages_folder_closed",
+        ".svelte-kit": "_svelte_kit_folder_closed",
+        ".node_modules": "_node_modules_folder_closed",
+        "src": "_src_folder_closed",
+        ".nuxt": "_nuxt_folder_closed",
     },
 
     "folderNamesExpanded": {
         ".vscode": "_vscode_folder_opened",
         "pages": "_pages_folder_opened",
+        ".svelte-kit": "_svelte_kit_folder_opened",
+        ".node_modules": "_node_modules_folder_opened",
+        "src": "_src_folder_opened",
+        ".nuxt": "_nuxt_folder_opened",
     }
 }
