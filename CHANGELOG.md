@@ -1,5 +1,8 @@
 # CHANGELOG
 
+# version 1.4.4 - 12/21/2022
+fix typo with node_modules
+
 # version 1.4.3 - 12/21/2022
 add Svelte (.svelte)
 add TailwindCSS

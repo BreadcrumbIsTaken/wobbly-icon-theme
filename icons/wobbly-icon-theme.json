@@ -411,7 +411,7 @@
         ".vscode": "_vscode_folder_closed",
         "pages": "_pages_folder_closed",
         ".svelte-kit": "_svelte_kit_folder_closed",
-        ".node_modules": "_node_modules_folder_closed",
+        "node_modules": "_node_modules_folder_closed",
         "src": "_src_folder_closed",
         ".nuxt": "_nuxt_folder_closed",
     },
@@ -420,7 +420,7 @@
         ".vscode": "_vscode_folder_opened",
         "pages": "_pages_folder_opened",
         ".svelte-kit": "_svelte_kit_folder_opened",
-        ".node_modules": "_node_modules_folder_opened",
+        "node_modules": "_node_modules_folder_opened",
         "src": "_src_folder_opened",
         ".nuxt": "_nuxt_folder_opened",
     }
