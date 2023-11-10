@@ -1,5 +1,9 @@
 # CHANGELOG
 
+# version 1.4.6 - 11/9/2023
+add Go (.go)
+Closes issue #9, suggested by @Karwin3
+
 # version 1.4.4 - 12/21/2022
 fix typo with node_modules
 

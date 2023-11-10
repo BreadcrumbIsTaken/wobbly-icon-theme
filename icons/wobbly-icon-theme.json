@@ -4,276 +4,225 @@
         "_dsc": {
             "iconPath": "dsc.svg"
         },
-
         // default file
         "_file": {
             "iconPath": "file.svg"
         },
-
         // default closed folder
         "_folder_closed": {
             "iconPath": "folder.svg"
         },
-
         // default open folder
         "_folder_expanded": {
             "iconPath": "folderExpanded.svg"
         },
-
         // .vscode folder closed
         "_vscode_folder_closed": {
             "iconPath": "vscodeFolder.svg"
         },
-
         // .vscode folder open
         "_vscode_folder_opened": {
             "iconPath": "vscodeFolderExpanded.svg"
         },
-
         // pages closed folder
         "_pages_folder_closed": {
             "iconPath": "pagesFolder.svg"
         },
-
         // pages open folder
         "_pages_folder_opened": {
             "iconPath": "pagesFolderExpanded.svg"
         },
-
         // .js
         "_javascript": {
             "iconPath": "js.svg"
         },
-
         // .java
         "_java": {
             "iconPath": "java.svg"
         },
-
         // .jsx
         "_react_jsx": {
             "iconPath": "jsx.svg"
         },
-
         // .json
         "_json": {
             "iconPath": "json.svg"
         },
-
         // .gitignore
         "_gitignore": {
             "iconPath": "gitignore.svg"
         },
-
         // .vsix
         "_vsix": {
             "iconPath": "vsix.svg"
         },
-
         // README.md
         "_readme_md": {
             "iconPath": "readme-md.svg"
         },
-
         // .md
         "_markdown": {
             "iconPath": "md.svg"
         },
-
         // .css
         "_css": {
             "iconPath": "css.svg"
         },
-
         // package.json package-lock.json
         "_nodejs": {
             "iconPath": "nodejs.svg"
         },
-
         // .npmignore
         "_npm": {
             "iconPath": "npm.svg"
         },
-
         // .html .xhtml
         "_html": {
             "iconPath": "html.svg"
         },
-
         // .unity
         "_unity": {
             "iconPath": "unity.svg"
         },
-
         // .c
         "_c": {
             "iconPath": "c.svg"
         },
-
         // .cpp
         "_cpp": {
             "iconPath": "cpp.svg"
         },
-
         // .cs
         "_cs": {
             "iconPath": "cs.svg"
         },
-
         //.mp3
-        "_mp3" : {
+        "_mp3": {
             "iconPath": "mp3.svg"
         },
-
         // .midi .mid
         "_midi": {
             "iconPath": "midi.svg"
         },
-
         // .exe .bat .msi .apk .wsf
         "_exe": {
             "iconPath": "exe.svg"
         },
-
         // .ogg
         "_ogg": {
             "iconPath": "ogg.svg"
         },
-
         // .wav
         "_wav": {
             "iconPath": "wav.svg"
         },
-        
         //.mp4
-        "_mp4" : {
+        "_mp4": {
             "iconPath": "mp4.svg"
         },
-
         // .ttf .otf .fon .fnt .woff
         "_ttf": {
             "iconPath": "ttf.svg"
         },
-
         // .png .jpg .jpeg .gif .bmp .svg .tif .tiff .ico .bmp
         "_image": {
             "iconPath": "image.svg"
         },
-
         // .py
         "_py": {
             "iconPath": "py.svg"
         },
-
         // .pl .cgi
         "_perl": {
             "iconPath": "pl.svg"
         },
-
         // .part
         "_part": {
             "iconPath": "part.svg"
         },
-
         // .php
         "_php": {
             "iconPath": "php.svg"
         },
-
         // .sh
         "_shell": {
             "iconPath": "sh.png"
         },
-
         // .env
         "_env": {
             "iconPath": "env.svg"
         },
-
         // .ts
         "_ts": {
             "iconPath": "ts.svg"
         },
-
         // .ipynb
         "_ipynb": {
             "iconPath": "ipynb.svg"
         },
-
         // .rs
         "_rs": {
             "iconPath": "rs.svg"
         },
-
         // .tsx (uses the same icon as .jsx)
         "_tsx": {
             "iconPath": "jsx.svg"
         },
-
         // .vue
         "_vue": {
             "iconPath": "vue.svg"
         },
-
         // .svelte
         "_svelte": {
             "iconPath": "svelte.svg"
         },
-
         // tailwind.config.cjs
         "_tailwindcss": {
             "iconPath": "tailwindcss.svg"
         },
-
         "_postcss": {
             "iconPath": "postcss.svg"
         },
-
         // .svelte-kit
         "_svelte_kit_folder_closed": {
             "iconPath": "svelteFolder.svg"
         },
-
         // .svelte-kit
         "_svelte_kit_folder_opened": {
             "iconPath": "svelteFolderExpanded.svg"
         },
-
         // .node_modules
         "_node_modules_folder_closed": {
             "iconPath": "nodeModulesFolder.svg"
         },
-
         // .node_modules
         "_node_modules_folder_opened": {
             "iconPath": "nodeModulesFolderExpanded.svg"
         },
-
         // src
         "_src_folder_closed": {
             "iconPath": "srcFolder.svg"
         },
-
         // src
         "_src_folder_opened": {
             "iconPath": "srcFolderExpanded.svg"
         },
-
         // .nuxt
         "_nuxt_folder_closed": {
             "iconPath": "nuxtFolder.svg"
         },
-
         // .nuxt
         "_nuxt_folder_opened": {
             "iconPath": "nuxtFolderExpanded.svg"
         },
+        // .go
+        "_go": {
+            "iconPath": "go.svg"
+        },
     },
-
     "file": "_file",
     "folder": "_folder_closed",
     "folderExpanded": "_folder_expanded",
-    
     "fileExtensions": {
         "dsc": "_dsc",
         "js": "_javascript",
@@ -282,7 +231,7 @@
         "json": "_json",
         "gitignore": "_gitignore",
         "vsix": "_vsix",
-        "md" : "_markdown",
+        "md": "_markdown",
         "css": "_css",
         "npmignore": "_npm",
         "html": "_html",
@@ -333,8 +282,8 @@
         "vue": "_vue",
         "svelte": "_svelte",
         "npmrc": "_npm",
+        "go": "_go",
     },
-
     "languageIds": {
         "dsc": "_dsc",
         "js": "_javascript",
@@ -343,7 +292,7 @@
         "json": "_json",
         "gitignore": "_gitignore",
         "vsix": "_vsix",
-        "md" : "_markdown",
+        "md": "_markdown",
         "css": "_css",
         "npmignore": "_npm",
         "html": "_html",
@@ -395,8 +344,8 @@
         "svelte": "_svelte",
         "tailwindcss": "_tailwindcss",
         "postcss": "_postcss",
+        "go": "_go"
     },
-
     "fileNames": {
         "README.md": "_readme_md",
         "readme.md": "_readme_md",
@@ -406,7 +355,6 @@
         "tailwind.config.cjs": "_tailwindcss",
         "postcss.config.cjs": "_postcss",
     },
-
     "folderNames": {
         ".vscode": "_vscode_folder_closed",
         "pages": "_pages_folder_closed",
@@ -415,7 +363,6 @@
         "src": "_src_folder_closed",
         ".nuxt": "_nuxt_folder_closed",
     },
-
     "folderNamesExpanded": {
         ".vscode": "_vscode_folder_opened",
         "pages": "_pages_folder_opened",
