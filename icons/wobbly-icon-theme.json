@@ -92,6 +92,12 @@
         "_cpp": {
             "iconPath": "cpp.svg"
         },
+        "_h": {
+            "iconPath": "h.svg"
+        },
+        "_hpp": {
+            "iconPath": "hpp.svg"
+        },
         // .cs
         "_cs": {
             "iconPath": "cs.svg"
@@ -219,6 +225,31 @@
         "_go": {
             "iconPath": "go.svg"
         },
+        // CMakeLists.txt
+        "_cmakelists": {
+            "iconPath": "cmakelists.svg"
+        },
+        // docs folder
+        "_docs_folder_closed": {
+            "iconPath": "docsFolder.svg"
+        },
+        "_docs_folder_opened": {
+            "iconPath": "docsFolderExpanded.svg"
+        },
+        // include folder
+        "_include_folder_closed": {
+            "iconPath": "includeFolder.svg"
+        },
+        "_include_folder_opened": {
+            "iconPath": "includeFolderExpanded.svg"
+        },
+        // build folder, bin folder
+        "_build_folder_closed": {
+            "iconPath": "buildFolder.svg",
+        },
+        "_build_folder_opened": {
+            "iconPath": "buildFolderExpanded.svg"
+        },
     },
     "file": "_file",
     "folder": "_folder_closed",
@@ -238,6 +269,8 @@
         "unity": "_unity",
         "c": "_c",
         "cpp": "_cpp",
+        "h": "_h",
+        "hpp": "_hpp",
         "cs": "_cs",
         "mp3": "_mp3",
         "midi": "_midi",
@@ -354,6 +387,7 @@
         "svelte.config.cjs": "_svelte",
         "tailwind.config.cjs": "_tailwindcss",
         "postcss.config.cjs": "_postcss",
+        "CMakeLists.txt": "_cmakelists",
     },
     "folderNames": {
         ".vscode": "_vscode_folder_closed",
@@ -362,6 +396,10 @@
         "node_modules": "_node_modules_folder_closed",
         "src": "_src_folder_closed",
         ".nuxt": "_nuxt_folder_closed",
+        "docs": "_docs_folder_closed",
+        "include": "_include_folder_closed",
+        "build": "_build_folder_closed",
+        "bin": "_build_folder_closed",
     },
     "folderNamesExpanded": {
         ".vscode": "_vscode_folder_opened",
@@ -370,5 +408,9 @@
         "node_modules": "_node_modules_folder_opened",
         "src": "_src_folder_opened",
         ".nuxt": "_nuxt_folder_opened",
+        "docs": "_docs_folder_opened",
+        "include": "_include_folder_opened",
+        "build": "_build_folder_opened",
+        "bin": "_build_folder_opened"
     }
 }

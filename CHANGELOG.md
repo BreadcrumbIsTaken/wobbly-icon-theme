@@ -1,5 +1,19 @@
 # CHANGELOG
 
+# version 1.4.7 - 2/13/2024
+add CMakeLists (CMakeLists.txt)
+add build folder icon
+add bin folder icon
+add docs folder icon
+add include folder icon
+add h icon (.h)
+add hpp icon (.hpp)
+update c icon (.c)
+update css icon (.css)
+update html icon (.html)
+update nodejs icon
+Closes issue #10, suggested by @nachiketa3299
+
 # version 1.4.6 - 11/9/2023
 add Go (.go)
 Closes issue #9, suggested by @Karwin3

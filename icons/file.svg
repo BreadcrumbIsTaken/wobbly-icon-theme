@@ -6,7 +6,7 @@
      width="42.3334mm" height="42.3334mm"
      viewBox="0 0 500 500">
   <path id="FileGrey"
-        fill="#868686" stroke="black" stroke-width="1"
+        fill="#868686" stroke="none" stroke-width="1"
         d="M 36.00,132.00
            C 28.60,129.11 32.26,116.74 34.03,111.00
              34.03,111.00 38.42,99.04 38.42,99.04
