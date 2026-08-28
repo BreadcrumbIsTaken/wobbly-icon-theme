@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
-              "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
 
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="2in" height="2in"
-     viewBox="0 0 600 600">
-  <path id="blue"
-        fill="#00b2ff" stroke="none" stroke-width="1"
-        d="M 157.00,55.00
+<svg xmlns="http://www.w3.org/2000/svg" width="2in" height="2in" viewBox="0 0 600 600">
+  <path id="blue" fill="#00b2ff" stroke="none" stroke-width="1" d="M 157.00,55.00
            C 162.12,57.67 172.87,55.01 179.00,54.46
              179.00,54.46 234.91,48.49 234.91,48.49
              234.91,48.49 252.27,47.08 252.27,47.08
@@ -166,9 +161,7 @@
              276.45,421.48 268.99,421.93 265.00,420.00
              265.00,420.00 263.00,421.00 263.00,421.00
              263.00,421.00 263.00,422.00 263.00,422.00 Z" />
-    <path id="white"
-        fill="white" stroke="black" stroke-width="1"
-        d="M 216.00,223.00
+  <path id="white" fill="white" stroke="white" stroke-width="1" d="M 216.00,223.00
            C 208.52,221.47 188.89,212.69 181.00,209.29
              181.00,209.29 164.00,203.19 164.00,203.19
              164.00,203.19 148.00,196.00 148.00,196.00

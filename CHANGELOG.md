@@ -1,5 +1,11 @@
 # CHANGELOG
 
+# version 1.4.8 - 8/28/2026
+add Ruby (.rb, .rdoc)
+add YAML (.yml, .yaml)
+add SQL (.sql)
+fix Shell (.sh)
+
 # version 1.4.7 - 2/13/2024
 add CMakeLists (CMakeLists.txt)
 add build folder icon

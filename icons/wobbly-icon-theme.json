@@ -152,7 +152,7 @@
         },
         // .sh
         "_shell": {
-            "iconPath": "sh.png"
+            "iconPath": "sh.svg"
         },
         // .env
         "_env": {
@@ -250,6 +250,15 @@
         "_build_folder_opened": {
             "iconPath": "buildFolderExpanded.svg"
         },
+        "_rb": {
+            "iconPath": "rb.svg"
+        },
+        "_yml": {
+            "iconPath": "yml.svg"
+        },
+        "_sql": {
+            "iconPath": "sql.svg"
+        },
     },
     "file": "_file",
     "folder": "_folder_closed",
@@ -316,6 +325,11 @@
         "svelte": "_svelte",
         "npmrc": "_npm",
         "go": "_go",
+        "rb": "_rb",
+        "rdoc": "_rb",
+        "yml": "_yml",
+        "yaml": "_yml",
+        "sql": "_sql",
     },
     "languageIds": {
         "dsc": "_dsc",
@@ -377,7 +391,10 @@
         "svelte": "_svelte",
         "tailwindcss": "_tailwindcss",
         "postcss": "_postcss",
-        "go": "_go"
+        "go": "_go",
+        "ruby": "_rb",
+        "yaml": "_yml",
+        "sql": "_sql",
     },
     "fileNames": {
         "README.md": "_readme_md",
